@@ -17,12 +17,12 @@
 
 .logo {
   width: 183px;
+  height: 32px;
 }
 
 .logo_place_header {
   position: absolute;
   background-image: url(../images/logo_place_header.svg);
-  height: 32px;
   top: 30px;
   left: 64px;
 }
@@ -306,7 +306,6 @@
 }
 
 .footer__column_content_copyright {
-  justify-content: space-between;
   flex-basis: 711px;
 }
 
@@ -342,7 +341,7 @@
 .footer__social-icon {
   height: 16px;
   width: 16px;
-  margin: auto 0 auto 0;
+  margin: 0;
   padding-right: 10px;
 }
 
