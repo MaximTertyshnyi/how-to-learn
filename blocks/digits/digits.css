@@ -1,0 +1,6 @@
+.digits {
+    display: flex;
+    justify-content: first baseline;
+    flex-direction: column;
+    margin-bottom: 100px;
+  }
