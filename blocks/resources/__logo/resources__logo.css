@@ -5,3 +5,9 @@
     margin: 0;
     padding: 0;
   }
+
+  .resources__logo:hover{
+    opacity: .3;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+  }
